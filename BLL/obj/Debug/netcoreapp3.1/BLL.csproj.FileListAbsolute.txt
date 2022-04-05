@@ -1,0 +1,9 @@
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\BLL\obj\Debug\netcoreapp3.1\BLL.pdb

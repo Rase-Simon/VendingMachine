@@ -1,0 +1,16 @@
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\CUI.exe
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\CUI.deps.json
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\CUI.runtimeconfig.json
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\CUI.runtimeconfig.dev.json
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\CUI.dll
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\CUI.pdb
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.csprojAssemblyReference.cache
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.AssemblyInfoInputs.cache
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.AssemblyInfo.cs
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.csproj.CopyComplete
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.dll
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.pdb
+C:\Users\simon\OneDrive\Documents\Technifutur\VendingMachine\CUI\obj\Debug\netcoreapp3.1\CUI.genruntimeconfig.cache
